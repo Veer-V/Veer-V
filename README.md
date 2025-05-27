@@ -20,7 +20,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,python,react,nodejs,express,mongodb,mysql" /><br>
   <img src="https://skillicons.dev/icons?i=powerbi,tensorflow,pytorch,opencv,arduino,raspberrypi" /><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,excel,word,ppt" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ---
