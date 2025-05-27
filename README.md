@@ -95,6 +95,21 @@
 
 ---
 
+### 🤝 Need Help or Collaboration?
+
+If you ever want:
+
+- 🎯 Custom project sections
+- 🖼 Help with banners/images
+- 📝 Markdown writing for your blog or resume
+- 🤖 ML/IoT project structure ideas
+
+Just drop me a message anytime — I’m always here to help and collaborate!
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Let's+Build+Something+Amazing+Together!+💡" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Keep+Learning+💡;Keep+Coding+💻;Keep+Growing+🌱" />
 </p>
