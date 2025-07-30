@@ -77,6 +77,8 @@
 > I love writing about life, tech, and self-reflection.
 
 📌 [Visit Blog](https://mylifetimesimple.blogspot.com/)
+📌 [Portfolio Website](https://portfolioveer.vercel.app/)
+
 
 ---
 
