@@ -82,12 +82,11 @@
 
 ---
 
-### ✨ Dynamic Christmas Feature!
+### ✨ Festive & Dynamic Greeting!
 
 <p align="center">
-  <img src="https://holiday.vercel.app/api/christmas?name=Veer&theme=radical&font=monospace" alt="Happy Holidays from Veer!" />
+  <img src="https://gpvc.dev/greetings/Veer" alt="Greeting from Veer" />
 </p>
-
 ---
 
 ### 🎯 Goals for 2025 (The Roadmap)
