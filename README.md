@@ -90,6 +90,21 @@
 
 ---
 
+### 🎯 Goals for 2025 (The Roadmap)
+
+- 🌱 Dive deeper into AI & ML deployment (Gotta ship those models!)
+- 🚀 Develop real-world IoT-based projects (Hardware is the future)
+- 💡 Publish technical blogs & tutorials (Share the knowledge)
+- 🧩 Collaborate on open-source (Teamwork makes the dream work)
+- 🧘 Balance coding & well-being (Self-care is key)
+
+---
+
+### 💬 The Mantra
+> *"Never stop learning, because life never stops teaching."*
+
+---
+
 ### 🤝 Let's Collab! (Hit My DMs)
 
 If you need a hand with:
