@@ -82,10 +82,10 @@
 
 ---
 
-### ✨ Festive & Dynamic Greeting!
+### ✨ Dynamic Tech Vibe (Reliable)
 
 <p align="center">
-  <img src="https://gpvc.dev/greetings/Veer" alt="Greeting from Veer" />
+  <img src="https://komarev.com/ghpvc/?username=Veer-V&label=Profile%20Views%20👀&color=0e75b6&style=flat" alt="Veer's Profile Views" />
 </p>
 
 ---
