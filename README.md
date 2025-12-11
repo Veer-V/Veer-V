@@ -87,6 +87,7 @@
 <p align="center">
   <img src="https://gpvc.dev/greetings/Veer" alt="Greeting from Veer" />
 </p>
+
 ---
 
 ### 🎯 Goals for 2025 (The Roadmap)
